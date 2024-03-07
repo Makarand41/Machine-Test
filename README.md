@@ -52,28 +52,37 @@ when creating a project , it first takes 2 parametes 1. created by and 2. client
 
 
 1]  List of all the clients
-![image](https://github.com/Makarand41/Machine-Test/assets/90332486/ffa5130c-f1a9-46d3-88a6-6bcd183e323e)
+![image](https://github.com/Makarand41/Machine-Test/assets/90332486/844cc181-c6b4-4736-a4a4-392e0cd2dad7)
+
 
 2] Add a client
-![image](https://github.com/Makarand41/Machine-Test/assets/90332486/7b7c9886-e512-4d99-8b75-8f838c9f25df)
+![image](https://github.com/Makarand41/Machine-Test/assets/90332486/a9cf474d-e7ad-4456-9834-bbe2ab806603)
+
+
 
 3] Update a clinet
-![image](https://github.com/Makarand41/Machine-Test/assets/90332486/6ef3b0cb-02e8-4ea4-a5ca-948d44b8a613)
+![image](https://github.com/Makarand41/Machine-Test/assets/90332486/3919f0ca-6f0d-411a-ac1e-7b12444da669)
+
 
 4] Delete a client
-![image](https://github.com/Makarand41/Machine-Test/assets/90332486/903bee05-632d-4da1-8595-ba76a064dda7)
+![image](https://github.com/Makarand41/Machine-Test/assets/90332486/4a2196ee-9483-4a6e-9735-3da78d3c29b7)
+
 
 5] GET /clients/:id  
 
-![image](https://github.com/Makarand41/Machine-Test/assets/90332486/ba5341fc-f280-4ada-aed8-e342686e1b62)
+![image](https://github.com/Makarand41/Machine-Test/assets/90332486/1e16fb4d-11af-4f30-ab4c-4114bafc6fcc)
+
 
 6] Add project
 
-![image](https://github.com/Makarand41/Machine-Test/assets/90332486/f00731bf-64c8-49fd-acbe-f7bfd6ce389e)
+![image](https://github.com/Makarand41/Machine-Test/assets/90332486/dadd083c-f39c-4d82-81b7-a844d164ee26)
+
 After that it will be redirected to 
-![image](https://github.com/Makarand41/Machine-Test/assets/90332486/d2a081db-2c14-475a-8dc4-c58848c79554)
+![image](https://github.com/Makarand41/Machine-Test/assets/90332486/9bdb94af-e795-4297-8486-15c0f34edf95)
+
 
 
 7] List of all projects
 
-![image](https://github.com/Makarand41/Machine-Test/assets/90332486/379e113f-5d3e-4429-a6ac-22d1436a4498)
+![image](https://github.com/Makarand41/Machine-Test/assets/90332486/98ef6d89-964d-4498-b03d-86f69d08c4c1)
+
